@@ -1,4 +1,9 @@
 title: FlashTrap Legal
-description: Official Legal Documents for FlashTrap App
-theme: jekyll-theme-cayman
-show_downloads: false
+description: Official Legal Documents
+
+# This forces every page to use our custom clean layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
