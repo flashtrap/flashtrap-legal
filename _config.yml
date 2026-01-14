@@ -1,3 +1,4 @@
 title: FlashTrap Legal
 description: Official Legal Documents for FlashTrap App
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+show_downloads: false
