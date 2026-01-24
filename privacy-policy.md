@@ -16,6 +16,7 @@ To provide the core functionality of the app, we require the following permissio
 
 ### B. Data Handling
 * **Local Processing:** The camera feed and audio are processed locally on your device ("ephemeral processing"). We do not stream, view, or store your real-time camera feed on our servers.
+* **Virtual Currency ("Emoji"):** Your "Emoji" balance and progress are stored locally on your device. Due to security measures against abuse, this specific data is excluded from cloud backups and will be lost if the app is uninstalled.
 * **User Submissions:** If you voluntarily choose to use the "Submit Video" feature, the video file you select will be uploaded to our cloud storage for the purpose of potential featuring on our social media channels. This is an opt-in action.
 
 ### C. Third-Party Services
