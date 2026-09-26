@@ -1,18 +1,18 @@
 # Terms of Service & End User License Agreement (EULA)
 
-**App Name:** FlashTrap: Prank Master
+**App Name:** FlashTrap - Prank Master
 **Package:** com.flashtrap.prankmaster
 **Contact Email:** flashtrap.app@gmail.com
 **Last Updated:** August 1, 2026
 
-> These terms cover **FlashTrap: Prank Master** only. FlashTrap: Broken Screen Prank has its own
+> These terms cover **FlashTrap - Prank Master** only. FlashTrap: Broken Screen Prank has its own
 > terms, linked from the [legal index](../).
 
 By downloading or using the app, these terms will automatically apply to you, so please make sure
 you read them carefully before using the app.
 
 ## 1. Nature of the App (Simulation)
-**FlashTrap: Prank Master is a prank-effect simulator and reaction-video app.**
+**FlashTrap - Prank Master is a prank-effect simulator and reaction-video app.**
 * It does **not** actually break your screen.
 * It does **not** damage your hardware.
 * Its effects are visual and audio simulations intended solely for humor, pranks, and entertainment.

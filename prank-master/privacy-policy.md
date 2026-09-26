@@ -1,16 +1,16 @@
 # Privacy Policy
 
-**App:** FlashTrap: Prank Master
+**App:** FlashTrap - Prank Master
 **Package:** com.flashtrap.prankmaster
 **Contact:** flashtrap.app@gmail.com
 **Last updated:** August 1, 2026
 
-> This policy covers **FlashTrap: Prank Master** only. FlashTrap: Broken Screen Prank has its own
+> This policy covers **FlashTrap - Prank Master** only. FlashTrap: Broken Screen Prank has its own
 > privacy policy, linked from the [legal index](../).
 
 ## 1. Summary
 
-FlashTrap: Prank Master is an entertainment app. You set up a prank on your own phone, hand it to
+FlashTrap - Prank Master is an entertainment app. You set up a prank on your own phone, hand it to
 someone you know, and the app records their reaction so you can edit and keep the video.
 
 Almost nothing leaves your phone. Your recordings, your edits, your exported videos and your Emoji

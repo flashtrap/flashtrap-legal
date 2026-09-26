@@ -1,6 +1,6 @@
 # Content Submission Agreement
 
-**App:** FlashTrap: Prank Master
+**App:** FlashTrap - Prank Master
 **Last Updated:** August 1, 2026
 
 By clicking "Submit", I confirm that:
