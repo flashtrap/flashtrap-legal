@@ -3,7 +3,7 @@
 Official legal documents for the FlashTrap apps. Each app has its own set, because the apps collect
 and share different things and one document cannot honestly describe both.
 
-## FlashTrap: Prank Master
+## FlashTrap - Prank Master
 
 * [Privacy Policy](./prank-master/privacy-policy)
 * [Terms of Service](./prank-master/terms-of-service)
